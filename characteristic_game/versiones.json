@@ -1,0 +1,165 @@
+[
+  {
+    "version": "0.27 (21/08/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.27.jar",
+    "carpeta": "OpenBuild-0.27",
+    "ejecutable": "OpenBuild-0.27.jar",
+    "changes": [
+      "Nubes renderizadas correctamente en gráficas AMD",
+      "Corregido degradado oscuro bajo el agua",
+      "El agua ya no se corta al poner bloques encima",
+      "Mejorado el rendimiento en elementos 2D",
+      "Bloques se rompen/colocan más lento, velocidad aumenta con clicks rápidos",
+      "Iluminación arreglada"
+    ]
+  },
+  {
+    "version": "0.26_1 (01/08/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.26_1.jar",
+    "carpeta": "OpenBuild-0.26_1",
+    "ejecutable": "OpenBuild-0.26_1.jar",
+    "changes": [
+      "Inventario funcional",
+      "Eliminada el agua del inventario"
+    ]
+  },
+  {
+    "version": "0.26 (28/07/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.26.jar",
+    "carpeta": "OpenBuild-0.26",
+    "ejecutable": "OpenBuild-0.26.jar",
+    "changes": [
+      "Errores guardados en logs",
+      "Agua renderizada correctamente",
+      "Arreglo en mundos grandes (ya no te quedas atrapado)",
+      "Corregido error en texturas"
+    ]
+  },
+  {
+    "version": "0.25 (20/07/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.25.jar",
+    "carpeta": "OpenBuild-0.25",
+    "ejecutable": "OpenBuild-0.25.jar",
+    "changes": [
+      "3ª fase de generación de mundo",
+      "Agua se expande indefinidamente",
+      "Hierba ↔ tierra según luz",
+      "Mundo más grande (512x64x512)",
+      "Nubes, clima y efectos de cámara",
+      "Nuevo sistema de nado/buceo",
+      "Texturas individuales en bloques",
+      "Guardado de mundo en hilo paralelo",
+      "Fuente de texto ampliada (256 caracteres + emojis)",
+      "Nuevo renderizado del agua",
+      "Modo pantalla completa activo",
+      "Arreglo de corrupción de texturas",
+      "Juego se cierra normalmente",
+      "Sorpresa añadida 👀"
+    ]
+  },
+  {
+    "version": "0.20 (13/04/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.20.jar",
+    "carpeta": "OpenBuild-0.20",
+    "ejecutable": "OpenBuild-0.20.jar",
+    "changes": [
+      "2ª fase de generación de mundo (lagos, playas, cuevas)",
+      "Nuevo bloque de arena",
+      "Opción de suavizado de texturas",
+      "Mejor rendimiento y tiempos de carga",
+      "1ª fase multijugador (chat, comandos, servidor desactivado)",
+      "Nuevo motor de renderizado + iluminación",
+      "OpenGL actualizado a 3.3",
+      "Pantalla se reescala en tiempo real",
+      "Nuevo menú principal",
+      "ModLoader v0.1",
+      "Mejor física al caer",
+      "Nueva pantalla de error",
+      "Memoria y texturas optimizadas"
+    ]
+  },
+  {
+    "version": "0.19_pre5 (23/02/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.19_pre5.jar",
+    "carpeta": "OpenBuild-0.19_pre5",
+    "ejecutable": "OpenBuild-0.19_pre5.jar",
+    "changes": [
+      "Rediseño de interfaz",
+      "Nuevo menú principal",
+      "Rediseño de lista de niveles",
+      "Opción para eliminar niveles"
+    ]
+  },
+  {
+    "version": "0.19_4 (16/02/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.19_4.jar",
+    "carpeta": "OpenBuild-0.19_4",
+    "ejecutable": "OpenBuild-0.19_4.jar",
+    "changes": [
+      "Iluminación arreglada",
+      "Actualización de bloques corregida",
+      "Hierba ↔ tierra según luz solar",
+      "Optimización en carga de mundo",
+      "Nuevo sistema de guardado de datos",
+      "Bug de salto en agua arreglado",
+      "Cuevas más grandes",
+      "Nivel 6 activado"
+    ]
+  },
+  {
+    "version": "0.19_3 (10/02/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.19_3e.jar",
+    "carpeta": "OpenBuild-0.19_3",
+    "ejecutable": "OpenBuild-0.19_3e.jar",
+    "changes": [
+      "Bloques no construibles en Y=0",
+      "Respawn corregido",
+      "Arreglo en colisiones al construir",
+      "Corrección en traducción de niveles"
+    ]
+  },
+  {
+    "version": "0.19_2 (08/02/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.19_2e.jar",
+    "carpeta": "OpenBuild-0.19_2",
+    "ejecutable": "OpenBuild-0.19_2e.jar",
+    "changes": [
+      "1ª fase de generación de mundo",
+      "Terreno: islas",
+      "Agua y mares",
+      "Sincronización vertical opcional",
+      "Mecánicas de nado y buceo"
+    ]
+  },
+  {
+    "version": "0.19_1 (01/02/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.19_1.jar",
+    "carpeta": "OpenBuild-0.19_1",
+    "ejecutable": "OpenBuild-0.19_1.jar",
+    "changes": [
+      "Traducciones finalizadas",
+      "Iluminación corregida",
+      "Opción de escala de interfaz",
+      "Sonido al romper y colocar bloques",
+      "Selección de bloque con clic central",
+      "Raycasting 4 → 5 bloques",
+      "Construcción/destrucción manteniendo click",
+      "Semillas personalizables"
+    ]
+  },
+  {
+    "version": "0.19 (30/01/2025)",
+    "url_descarga": "https://github.com/carlos888nasa/version-game-/raw/main/version_game/OpenBuild-0.19.jar",
+    "carpeta": "OpenBuild-0.19",
+    "ejecutable": "OpenBuild-0.19.jar",
+    "changes": [
+      "Niveles personalizables",
+      "Primer inventario",
+      "Guardado de mundo",
+      "Traducciones y opciones funcionales",
+      "Gran cantidad de bloques",
+      "Controles básicos: WASD, R, G, I, 1-9, ratón",
+      "Requisitos: Java 21"
+    ]
+  }
+]
